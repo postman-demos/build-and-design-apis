@@ -1,0 +1,288 @@
+- caption_title: Postman Is An API Platform
+  caption_text: Where you can developer APIs using an API first process, defining the underlying schema for the API, then evolve and iterate upon as a group as part of a common process.
+  margin_margin_top: 500px
+  caption_width: 40
+  margin_right: 0
+  background_image: images/postman-api-first-1.png
+  tooltip_show: 1
+  tooltip_text: APIs
+  tooltip_width: 190px
+  tooltip_margin_top: 100px
+  tooltip_margin_left: 365px
+  tooltip_direction: left
+- caption_title: Define API
+  caption_text: [Needs Text]
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-2-define-api.png
+  tooltip_show: 1
+  tooltip_text: Define
+  tooltip_width: 160px
+  tooltip_margin_top: 110px
+  tooltip_margin_left: 460px
+  tooltip_direction: left
+- caption_title: Import API Definition
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-3-define-api-import.png
+  tooltip_show: 1
+  tooltip_text: Import
+  tooltip_width: 145px
+  tooltip_margin_top: 290px
+  tooltip_margin_left: 850px
+  tooltip_direction: left
+- caption_title: Save API Definition
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-4-define-api-save.png
+  tooltip_show: 1
+  tooltip_text: Save
+  tooltip_width: 135px
+  tooltip_margin_top: 140px
+  tooltip_margin_left: 830px
+  tooltip_direction: right
+- caption_title: Generate API Collection
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-5-generate-collection.png
+  tooltip_show: 1
+  tooltip_text: Generate
+  tooltip_width: 150px
+  tooltip_margin_top: 140px
+  tooltip_margin_left: 780px
+  tooltip_direction: right
+- caption_title: Name Collection
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-6-define-collection.png
+  tooltip_show: 1
+  tooltip_text: Name
+  tooltip_width: 145px
+  tooltip_margin_top: 250px
+  tooltip_margin_left: 650px
+  tooltip_direction: left
+- caption_title: Create Mock
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-7-create-mock.png
+  tooltip_show: 1
+  tooltip_text: Create
+  tooltip_width: 145px
+  tooltip_margin_top: 195px
+  tooltip_margin_left: 930px
+  tooltip_direction: right
+- caption_title: Configure Mock
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-8-create-mock-configure.png
+  tooltip_show: 1
+  tooltip_text: Configure
+  tooltip_width: 165px
+  tooltip_margin_top: 230px
+  tooltip_margin_left: 670px
+  tooltip_direction: left
+- caption_title: Select Collection
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-9-create-mock-select-collection.png
+  tooltip_show: 1
+  tooltip_text: Select
+  tooltip_width: 145px
+  tooltip_margin_top: 140px
+  tooltip_margin_left: 650px
+  tooltip_direction: left
+- caption_title: View Mocked Response
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-9-create-mock-view-response.png
+  tooltip_show: 1
+  tooltip_text: Response
+  tooltip_width: 165px
+  tooltip_margin_top: 350px
+  tooltip_margin_left: 640px
+  tooltip_direction: left
+- caption_title: Publish Documentation
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-10-publish-documentation.png
+  tooltip_show: 1
+  tooltip_text: Publish
+  tooltip_width: 145px
+  tooltip_margin_top: 120px
+  tooltip_margin_left: 660px
+  tooltip_direction: right
+- caption_title: View / Share Documentation
+  caption_text: [Needs Text]
+  caption_width: 40
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-10-view-documentation.png
+  tooltip_show: 0
+  tooltip_text: Response
+  tooltip_width: 145px
+  tooltip_margin_top: 120px
+  tooltip_margin_left: 400px
+  tooltip_direction: left
+- caption_title: Add Environment
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-11-add-environment.png
+  tooltip_show: 1
+  tooltip_text: Add
+  tooltip_width: 125px
+  tooltip_margin_top: 75px
+  tooltip_margin_left: 720px
+  tooltip_direction: right
+- caption_title: Manage Environment
+  caption_text: [Needs Text]
+  caption_width: 25
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-11-manage-environment.png
+  tooltip_show: 1
+  tooltip_text: Manage
+  tooltip_width: 145px
+  tooltip_margin_top: 220px
+  tooltip_margin_left: 940px
+  tooltip_direction: left
+- caption_title: Add Test Suite
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-12-add-test-suites.png
+  tooltip_show: 1
+  tooltip_text: Add
+  tooltip_width: 125px
+  tooltip_margin_top: 75px
+  tooltip_margin_left: 700px
+  tooltip_direction: right
+- caption_title: Manage Tests
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-12-manage-tests.png
+  tooltip_show: 1
+  tooltip_text: Tests
+  tooltip_width: 145px
+  tooltip_margin_top: 180px
+  tooltip_margin_left: 750px
+  tooltip_direction: left
+- caption_title: Add Monitor
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-15-add-monitor.png
+  tooltip_show: 1
+  tooltip_text: Add
+  tooltip_width: 125px
+  tooltip_margin_top: 180px
+  tooltip_margin_left: 970px
+  tooltip_direction: right
+- caption_title: Configure Monitor
+  caption_text: [Needs Text]
+  caption_width: 25
+  margin_right: 1
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-15-configure-monitor.png
+  tooltip_show: 1
+  tooltip_text: Tests
+  tooltip_width: 145px
+  tooltip_margin_top: 270px
+  tooltip_margin_left: 1000px
+  tooltip_direction: left
+- caption_title: Monitor Results
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-15-monitor-results.png
+  tooltip_show: 0
+  tooltip_text: Tests
+  tooltip_width: 145px
+  tooltip_margin_top: 120px
+  tooltip_margin_left: 400px
+  tooltip_direction: left
+- caption_title: Comment on API
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-16-comments.png
+  tooltip_show: 1
+  tooltip_text: Comment
+  tooltip_width: 180px
+  tooltip_margin_top: 100px
+  tooltip_margin_left: 610px
+  tooltip_direction: right
+- caption_title: Share API
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-17-share-api.png
+  tooltip_show: 1
+  tooltip_text: Share
+  tooltip_width: 145px
+  tooltip_margin_top: 165px
+  tooltip_margin_left: 540px
+  tooltip_direction: left
+- caption_title: Manage Roles
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-18-manage-roles.png
+  tooltip_show: 1
+  tooltip_text: Manage
+  tooltip_width: 145px
+  tooltip_margin_top: 100px
+  tooltip_margin_left: 100px
+  tooltip_direction: right
+- caption_title: View History
+  caption_text: [Needs Text]
+  caption_width: 30
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-19-view-history.png
+  tooltip_show: 1
+  tooltip_text: History
+  tooltip_width: 145px
+  tooltip_margin_top: 70px
+  tooltip_margin_left: 190px
+  tooltip_direction: left
+- caption_title: Iterate
+  caption_text: [Need7Text]
+  margin_margin_top: 519px
+  caption_width: 40
+  margin_right: 0
+  margin_margin_top: 500px
+  background_image: images/postman-api-first-20-iterate.png
+  tooltip_show: 0
+  tooltip_text: APIs
+  tooltip_width: 190px
+  tooltip_margin_top: 65px
+  tooltip_margin_left: 490px
+  tooltip_direction: left
