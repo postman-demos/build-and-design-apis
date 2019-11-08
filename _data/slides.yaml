@@ -11,7 +11,7 @@
   tooltip_margin_left: 365px
   tooltip_direction: left
 - caption_title: Define API
-  caption_text: [Needs Text]
+  caption_text: Postman allows you to define the details of your API using common API specification formats like OpenAPI, RAML, and GraphQL.
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-2-define-api.png
@@ -21,9 +21,10 @@
   tooltip_margin_top: 110px
   tooltip_margin_left: 460px
   tooltip_direction: left
+  caption_width: 50
 - caption_title: Import API Definition
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Import an API specification from file, or create a new API schema for defining the surface area of the API being published.
+  caption_width: 50
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-3-define-api-import.png
@@ -34,8 +35,8 @@
   tooltip_margin_left: 850px
   tooltip_direction: left
 - caption_title: Save API Definition
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Save the API as the official schema for what the API will do, and describing the capabilities that each API posseses.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-4-define-api-save.png
@@ -46,8 +47,8 @@
   tooltip_margin_left: 830px
   tooltip_direction: right
 - caption_title: Generate API Collection
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: You can publish a Postman collection for each API being defined, providing a reference or workflow definition of each API.
+  caption_width: 40
   margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-5-generate-collection.png
@@ -58,9 +59,9 @@
   tooltip_margin_left: 780px
   tooltip_direction: right
 - caption_title: Name Collection
-  caption_text: [Needs Text]
+  caption_text: Naming your collection, providing a meaningful wrapper to store all of the individual API requests within the collection.
   caption_width: 30
-  margin_right: 0
+  margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-6-define-collection.png
   tooltip_show: 1
@@ -70,8 +71,8 @@
   tooltip_margin_left: 650px
   tooltip_direction: left
 - caption_title: Create Mock
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: You can generate a mock for the API publishing a temporary virtualized representation of the current design of the API.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-7-create-mock.png
@@ -82,9 +83,9 @@
   tooltip_margin_left: 930px
   tooltip_direction: right
 - caption_title: Configure Mock
-  caption_text: [Needs Text]
-  caption_width: 30
-  margin_right: 0
+  caption_text: Configure the tdetails of the mock managing the version, environment, and whether it is publicly or privately accessible.
+  caption_width: 40
+  margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-8-create-mock-configure.png
   tooltip_show: 1
@@ -94,8 +95,8 @@
   tooltip_margin_left: 670px
   tooltip_direction: left
 - caption_title: Select Collection
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Define which collection should be used as the desired representation of the API to virtualize and make available.
+  caption_width: 40
   margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-9-create-mock-select-collection.png
@@ -106,8 +107,8 @@
   tooltip_margin_left: 650px
   tooltip_direction: left
 - caption_title: View Mocked Response
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: See the mocked response when making each request, simulating what will happen when the API is actually deployed.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-9-create-mock-view-response.png
@@ -118,8 +119,8 @@
   tooltip_margin_left: 640px
   tooltip_direction: left
 - caption_title: Publish Documentation
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Use the API definition to publish API documentation that provides more human readable information about the API.
+  caption_width: 40
   margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-10-publish-documentation.png
@@ -130,7 +131,7 @@
   tooltip_margin_left: 660px
   tooltip_direction: right
 - caption_title: View / Share Documentation
-  caption_text: [Needs Text]
+  caption_text: Visit the published API documentation, and share the URL of the documentation with other API stakeholders.
   caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
@@ -142,8 +143,8 @@
   tooltip_margin_left: 400px
   tooltip_direction: left
 - caption_title: Add Environment
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Add an environment for the API, providing variables, globals, and common values for use with each API.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-11-add-environment.png
@@ -154,8 +155,8 @@
   tooltip_margin_left: 720px
   tooltip_direction: right
 - caption_title: Manage Environment
-  caption_text: [Needs Text]
-  caption_width: 25
+  caption_text: Define each of the common variables and set initial and current values for use across all API requests.
+  caption_width: 35
   margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-11-manage-environment.png
@@ -166,8 +167,8 @@
   tooltip_margin_left: 940px
   tooltip_direction: left
 - caption_title: Add Test Suite
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Add tests for the API, allowing for the validation of each individual API request using JavaScript test scripts.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-12-add-test-suites.png
@@ -178,8 +179,8 @@
   tooltip_margin_left: 700px
   tooltip_direction: right
 - caption_title: Manage Tests
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Providing tests for status codes, specific fields, values, and other expected results of each individual API request.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-12-manage-tests.png
@@ -190,8 +191,8 @@
   tooltip_margin_left: 750px
   tooltip_direction: left
 - caption_title: Add Monitor
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Add a new monitor for the API to regularly make an API request and run the tests against each API response to ensure availability.
+  caption_width: 45
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-15-add-monitor.png
@@ -202,8 +203,8 @@
   tooltip_margin_left: 970px
   tooltip_direction: right
 - caption_title: Configure Monitor
-  caption_text: [Needs Text]
-  caption_width: 25
+  caption_text: configure the details of the monitoring, managing version, environment, frequency, and region.
+  caption_width: 40
   margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-15-configure-monitor.png
@@ -214,7 +215,7 @@
   tooltip_margin_left: 1000px
   tooltip_direction: left
 - caption_title: Monitor Results
-  caption_text: [Needs Text]
+  caption_text: View the results of a monitor, providing detail the run of each individual API request.
   caption_width: 30
   margin_right: 0
   margin_margin_top: 500px
@@ -226,9 +227,9 @@
   tooltip_margin_left: 400px
   tooltip_direction: left
 - caption_title: Comment on API
-  caption_text: [Needs Text]
-  caption_width: 30
-  margin_right: 0
+  caption_text: Comment and have a discussion around the development of each API, establishing a feedback loop.
+  caption_width: 35
+  margin_right: 1
   margin_margin_top: 500px
   background_image: images/postman-api-first-16-comments.png
   tooltip_show: 1
@@ -238,8 +239,8 @@
   tooltip_margin_left: 610px
   tooltip_direction: right
 - caption_title: Share API
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Make the API available to other team members, by publishing it to relevant API workspaces.
+  caption_width: 40
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-17-share-api.png
@@ -250,8 +251,8 @@
   tooltip_margin_left: 540px
   tooltip_direction: left
 - caption_title: Manage Roles
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: Define the roles of team members, maintaining the access each of the API stakeholders with have.
+  caption_width: 35
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-18-manage-roles.png
@@ -262,8 +263,8 @@
   tooltip_margin_left: 100px
   tooltip_direction: right
 - caption_title: View History
-  caption_text: [Needs Text]
-  caption_width: 30
+  caption_text: See the history associated with the development and execution of each API defined as a collection.
+  caption_width: 35
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-19-view-history.png
@@ -274,9 +275,9 @@
   tooltip_margin_left: 190px
   tooltip_direction: left
 - caption_title: Iterate
-  caption_text: [Need7Text]
+  caption_text: Iterate upon the design of an API, having a conversation, and moving forward the value it delivers.
   margin_margin_top: 519px
-  caption_width: 40
+  caption_width: 35
   margin_right: 0
   margin_margin_top: 500px
   background_image: images/postman-api-first-20-iterate.png
