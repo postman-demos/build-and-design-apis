@@ -1,7 +1,7 @@
 # Postman Build and Design API Demo
 This is a basic walkthrough of building and designing an API using Postman.
 
-The demo can be viewed at: https://github.com/postman-demos/build-and-design-apis
+The demo can be viewed at: https://postman-demos.github.io/build-and-design-apis/
 
 YAML Slides - https://github.com/postman-demos/build-and-design-apis/blob/master/_data/slides.yaml
 
