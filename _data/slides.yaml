@@ -209,7 +209,7 @@
   margin_margin_top: 500px
   background_image: images/postman-api-first-15-configure-monitor.png
   tooltip_show: 1
-  tooltip_text: Tests
+  tooltip_text: Configure
   tooltip_width: 145px
   tooltip_margin_top: 270px
   tooltip_margin_left: 1000px
